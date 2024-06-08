@@ -1,0 +1,60 @@
+body {
+  background-color: darkolivegreen;
+}
+
+.App {
+  margin: 30px auto;
+}
+
+#main {
+  width: 80%;
+  height: 100vh;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#timeline {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+#timeline img {
+  width: 100px;
+  flex: 0 20%;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+#timeline img:hover {
+  scale: 1.05;
+  border-radius: 8px;
+  outline: 1px solid slategray;
+}
+
+.active {
+  outline: 4px solid rgb(212, 234, 156);
+}
+button {
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  margin: 16px 20px;
+  border-radius: 6px;
+  transition: 0.2s;
+  font-size: 1rem;
+}
+
+button:hover {
+  outline: 4px solid steelblue;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}

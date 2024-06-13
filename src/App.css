@@ -1,0 +1,109 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  border: 1px solid black;
+  width: 100%;
+  padding: 1rem;
+}
+.my_songs {
+  width: 42%;
+  height: 100%;
+}
+.playlist {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 42%;
+  height: 100%;
+}
+
+.Song {
+  background-color: brown;
+  padding: 16px;
+  margin: 16px;
+  text-align: left;
+  width: 70%;
+  border-radius: 10px 26%;
+  color: #fff;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+h2 span {
+  color: rgb(105, 216, 194);
+}
+
+h2 {
+  color: #fff;
+  font-weight: 200;
+}
+
+.buttons_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 6px;
+
+  gap: 1rem;
+}
+
+.buttons_section button {
+  min-width: 120px;
+  font-size: 1rem;
+  padding: 6px 10px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  transition: 0.4s;
+}
+
+.buttons_section button:hover {
+  border: 1px solid rgb(97, 97, 214);
+  cursor: pointer;
+}
+
+strong span:first-of-type {
+  color: yellow;
+}
+
+strong span:nth-of-type(2) {
+  color: orange;
+}
+.song_controls {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}
+
+.play_button,
+.pause_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.play_button img {
+  margin-left: 4px;
+}
+
+.song_controls button:hover {
+  scale: 1.1;
+}
+
+.song_controls button img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+}

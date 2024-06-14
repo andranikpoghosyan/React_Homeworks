@@ -1,0 +1,45 @@
+.basket {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid grey;
+}
+tr {
+  text-align: center;
+  border: 1px solid grey;
+}
+.basket h2:last-child {
+  text-align: end;
+}
+.title_line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+
+.title_line h2 {
+  border: none;
+}
+
+.title_line button {
+  width: 150px;
+  height: 30px;
+  font-size: 1rem;
+  background-color: rgb(234, 234, 238);
+  border-radius: 8px;
+  border: 1px solid aliceblue;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.title_line button:hover {
+  transform: translateY(-3px);
+  outline: 1px solid brown;
+}

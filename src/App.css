@@ -1,9 +1,96 @@
 .row {
   display: flex;
-  justify-content: space-around;
+  flex-wrap: wrap;
   align-items: flex-start;
+  justify-content: center;
   gap: 20px;
+  width: 35%;
+}
+
+.App {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.book_container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.book_container img {
+  width: 150px;
+  aspect-ratio: 2/3;
 }
 .basket_section {
+  width: 64%;
+}
+
+.basket {
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid grey;
+}
+tr {
+  text-align: center;
+  border: 1px solid grey;
+}
+td {
+  padding: 5px 8px;
+}
+
+.btn {
+  background-color: #fff;
+  border: 1px solid #d5d9d9;
+  border-radius: 8px;
+  box-shadow: rgba(213, 217, 217, 0.5) 0 2px 5px 0;
+  box-sizing: border-box;
+  color: #0f1111;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember", sans-serif;
+  font-size: 13px;
+  line-height: 29px;
+  padding: 0 10px 0 11px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 100px;
+}
+
+.btn:hover {
+  background-color: #f7fafa;
+}
+
+.btn:focus {
+  border-color: #008296;
+  box-shadow: rgba(213, 217, 217, 0.5) 0 2px 5px 0;
+  outline: 0;
+}
+
+.btn_action {
+  width: 20px;
+  height: 20px;
+  background-color: transparent;
+  border: 1px solid grey;
+  cursor: pointer;
+}
+
+.actions_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
 }

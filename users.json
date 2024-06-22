@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "73cb",
+      "name": "sds",
+      "surname": "sdsd",
+      "salary": 853434
+    },
+    {
+      "id": "bcfc",
+      "name": "gg",
+      "surname": "gg",
+      "salary": 800055
+    },
+    {
+      "id": "75d3",
+      "salary": 111,
+      "surname": "aaa",
+      "name": "aaa"
+    },
+    {
+      "id": "5f5c",
+      "salary": 800100,
+      "surname": "2323",
+      "name": "111"
+    }
+  ]
+}

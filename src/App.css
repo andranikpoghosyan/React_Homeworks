@@ -1,0 +1,159 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.row {
+  display: flex;
+  gap: 100px;
+}
+
+form {
+  max-width: 600px;
+  margin: auto;
+  background: #f8f9fa;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #6c757d;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  width: 100%;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  background: #fff;
+  font-size: 1rem;
+  color: #495057;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+textarea:focus {
+  border-color: #e83e8c;
+  box-shadow: 0 0 0 0.2rem rgba(232, 62, 140, 0.25);
+  outline: none;
+}
+
+.save_btn {
+  display: block;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  background: linear-gradient(45deg, #e83e8c, #6f42c1);
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 30px;
+  cursor: pointer;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.save_btn:hover {
+  background: linear-gradient(45deg, #d63384, #563d7c);
+  transform: translateY(-2px);
+}
+
+.save_btn:active {
+  background: linear-gradient(45deg, #d63384, #563d7c);
+  transform: translateY(0);
+}
+
+.input-icon {
+  position: relative;
+}
+
+.input-icon input {
+  padding-left: 2.5rem;
+}
+
+.input-icon i {
+  position: absolute;
+  left: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #6c757d;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #adb5bd;
+}
+
+table {
+  border-collapse: collapse;
+  width: 900px;
+}
+table,
+tr,
+th,
+td {
+  border: 1px solid gray;
+}
+
+.delete_btn,
+.btn_salaryUp {
+  background: #ff4742;
+  border: 1px solid #ff4742;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: nunito, roboto, proxima-nova, "proxima nova", sans-serif;
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  margin: 0px 5px;
+}
+
+.delete_btn:hover,
+.btn_salaryUp:hover,
+.delete_btn:active,
+.btn_salaryUp:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #ff4742;
+}
+
+.delete_btn:active,
+.btn_salaryUp:active {
+  opacity: 0.5;
+}
+
+.td_delete {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.junioriAshxatavarc {
+  background-color: yellow;
+}

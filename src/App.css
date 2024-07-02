@@ -1,0 +1,83 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  width: 95%;
+}
+
+.item_box {
+  outline: 2px solid rgb(114, 106, 106);
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 280px;
+  padding: 16px 10px;
+  flex-direction: column;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  transition: 0.4s;
+  background-color: aliceblue;
+  background-image: url(../public/2.jpg);
+  background-size: cover;
+  color: #000;
+}
+.item_box > button {
+  width: 100%;
+}
+
+.item_box:hover {
+  scale: 1.07;
+}
+
+.list img {
+  height: 200px;
+  object-fit: cover;
+}
+
+form {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+form > div {
+  width: 100%;
+}
+
+.ev_inputs {
+  width: 100%;
+}
+
+.filter_container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+
+.box_container {
+  background-color: black;
+}
+
+.eventlist {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.events_title {
+  color: #fff;
+  font-size: 3rem;
+}

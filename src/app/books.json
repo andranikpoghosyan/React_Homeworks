@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 10.99,
+    "photo": "https://m.media-amazon.com/images/I/61hmZA6mOBL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 8.99,
+    "photo": "https://ih1.redbubble.net/image.1980943595.7096/fposter,small,wall_texture,square_product,600x600.u1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 12.99,
+    "photo": "https://m.media-amazon.com/images/I/71mhMxgFDdL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 11.99,
+    "photo": "https://m.media-amazon.com/images/I/71ZD1nfjDfL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "price": 9.99,
+    "photo": "https://www.theliterarygiftcompany.com/cdn/shop/products/the-catcher-in-the-rye-poster-676-p.jpeg?v=1457991398"
+  },
+  {
+    "id": 6,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": 14.99,
+    "photo": "https://cdn.europosters.eu/image/750/83386.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "price": 9.49,
+    "photo": "https://m.media-amazon.com/images/I/614CaZ-ObPL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "price": 13.99,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDGSv3QncnugJydwl7BP0TBW0LeQMCwCIvA&s"
+  },
+  {
+    "id": 9,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "price": 15.99,
+    "photo": "https://ih1.redbubble.net/image.2394586056.8855/fposter,small,wall_texture,product,750x1000.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "price": 11.49,
+    "photo": "https://www.theliterarygiftcompany.com/cdn/shop/products/brave-new-world-poster-633-p.jpeg?v=1491915748"
+  }
+]

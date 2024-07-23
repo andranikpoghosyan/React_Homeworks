@@ -1,0 +1,20 @@
+@import url("https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css");
+
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+}
+small {
+  font-size: 10px;
+  color: red;
+  text-align: end;
+  margin: 4px 8px -10px 0px;
+}
+.cont {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.is-danger {
+  margin-left: 10px;
+}

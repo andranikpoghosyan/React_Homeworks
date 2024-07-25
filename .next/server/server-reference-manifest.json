@@ -1,0 +1,46 @@
+{
+  "node": {
+    "53853a9650959515a742f7849325d9cabbe89f18": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAndranik%5C%5CDesktop%5C%5CJavascript_Renaissance%5C%5CREACT%5C%5CLesson_73_HW_Authorization%5C%5Cmy-app%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%2C%22handleSignup%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAndranik%5C%5CDesktop%5C%5CJavascript_Renaissance%5C%5CREACT%5C%5CLesson_73_HW_Authorization%5C%5Cmy-app%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%2C%22handleSignup%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "6cbd68414aad549ba47c40dcdf0719b1f885323a": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAndranik%5C%5CDesktop%5C%5CJavascript_Renaissance%5C%5CREACT%5C%5CLesson_73_HW_Authorization%5C%5Cmy-app%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%2C%22handleSignup%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAndranik%5C%5CDesktop%5C%5CJavascript_Renaissance%5C%5CREACT%5C%5CLesson_73_HW_Authorization%5C%5Cmy-app%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%2C%22handleSignup%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "a2dcbae1b2b3470d2e614346bd7a2f6e7105b273": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAndranik%5C%5CDesktop%5C%5CJavascript_Renaissance%5C%5CREACT%5C%5CLesson_73_HW_Authorization%5C%5Cmy-app%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%2C%22handleSignup%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAndranik%5C%5CDesktop%5C%5CJavascript_Renaissance%5C%5CREACT%5C%5CLesson_73_HW_Authorization%5C%5Cmy-app%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%2C%22handleSignup%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "f3a8732cdd808296cd090629568bc5dd2d7774c5": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAndranik%5C%5CDesktop%5C%5CJavascript_Renaissance%5C%5CREACT%5C%5CLesson_73_HW_Authorization%5C%5Cmy-app%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%2C%22handleSignup%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CAndranik%5C%5CDesktop%5C%5CJavascript_Renaissance%5C%5CREACT%5C%5CLesson_73_HW_Authorization%5C%5Cmy-app%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%2C%22handleSignup%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "o5gbnwktz4BjOjnKkFQPRyPlOjJM7sZRBLoKBP1mXVw="
+}
